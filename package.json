@@ -21,7 +21,7 @@
 	"devDependencies": {
 		"@types/node": "^13.13.4",
 		"mocha": "^7.1.2",
-		"typescript": "^3.8.3"
+		"typescript": "^5.7.2"
 	},
 	"scripts": {
 		"build": "tsc",
